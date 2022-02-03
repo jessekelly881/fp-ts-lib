@@ -1,0 +1,19 @@
+[13:58:54.158] Global cache location '/Users/jessekelly/Library/Caches/typescript/4.5', safe file path '/users/jessekelly/projects/fp-ts-lib/node_modules/typescript/lib/typingsafelist.json', types map path /users/jessekelly/projects/fp-ts-lib/node_modules/typescript/lib/typesmap.json
+[13:58:54.160] Processing cache location '/Users/jessekelly/Library/Caches/typescript/4.5'
+[13:58:54.160] Trying to find '/Users/jessekelly/Library/Caches/typescript/4.5/package.json'...
+[13:58:54.161] Loaded content of '/Users/jessekelly/Library/Caches/typescript/4.5/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.578"}}
+[13:58:54.161] Loaded content of '/Users/jessekelly/Library/Caches/typescript/4.5/package-lock.json'
+[13:58:54.161] Finished processing cache location '/Users/jessekelly/Library/Caches/typescript/4.5'
+[13:58:54.161] Process id: 34031
+[13:58:54.161] NPM location: /Users/jessekelly/.nvm/versions/node/v14.17.0/bin/npm (explicit '--npmLocation' not  provided)
+[13:58:54.161] validateDefaultNpmLocation: false
+[13:58:54.161] Npm config file: /Users/jessekelly/Library/Caches/typescript/4.5/package.json
+[13:58:54.161] Updating types-registry npm package...
+[13:58:54.161] Exec: /Users/jessekelly/.nvm/versions/node/v14.17.0/bin/npm install --ignore-scripts types-registry@latest
+[13:58:55.445]     Succeeded. stdout:
+    
+    up to date, audited 2 packages in 989ms
+
+found 0 vulnerabilities
+
+[13:58:55.446] Updated types-registry npm package

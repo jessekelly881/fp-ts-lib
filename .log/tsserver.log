@@ -1,0 +1,62 @@
+Info 0    [14:04:17.510] Starting TS Server
+Info 1    [14:04:17.511] Version: 4.5.5
+Info 2    [14:04:17.511] Arguments: /Users/jessekelly/.nvm/versions/node/v14.17.0/bin/node /Users/jessekelly/projects/fp-ts-lib/node_modules/.bin/tsserver --logFile /Users/jessekelly/projects/fp-ts-lib/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/lc/y2dbm6r52hj5ljsq41phk2sm0000gn/T/f26b48e532a8c9a75a55cf90b4a02ffc/tscancellation*
+Info 3    [14:04:17.511] Platform: darwin NodeVersion: 14 CaseSensitive: false
+Info 4    [14:04:17.511] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [14:04:17.670] Search path: /Users/jessekelly/projects/fp-ts-lib/tests
+Info 6    [14:04:17.671] For info: /Users/jessekelly/projects/fp-ts-lib/tests/Tuple.ts :: Config file name: /Users/jessekelly/projects/fp-ts-lib/tsconfig.json
+Info 7    [14:04:17.671] Creating configuration project /Users/jessekelly/projects/fp-ts-lib/tsconfig.json
+Info 8    [14:04:17.681] Config: /Users/jessekelly/projects/fp-ts-lib/tsconfig.json : {
+ "rootNames": [
+  "/Users/jessekelly/projects/fp-ts-lib/src/Distance.ts",
+  "/Users/jessekelly/projects/fp-ts-lib/src/Tuple.ts",
+  "/Users/jessekelly/projects/fp-ts-lib/tests/Distance.ts",
+  "/Users/jessekelly/projects/fp-ts-lib/tests/Tuple.ts"
+ ],
+ "options": {
+  "strict": true,
+  "noUnusedLocals": true,
+  "noUnusedParameters": true,
+  "noImplicitReturns": true,
+  "noFallthroughCasesInSwitch": true,
+  "noUncheckedIndexedAccess": true,
+  "rootDirs": [],
+  "esModuleInterop": true,
+  "skipLibCheck": true,
+  "forceConsistentCasingInFileNames": true,
+  "target": 1,
+  "module": 1,
+  "noEmit": true,
+  "configFilePath": "/Users/jessekelly/projects/fp-ts-lib/tsconfig.json"
+ }
+}
+Info 9    [14:04:17.700] Starting updateGraphWorker: Project: /Users/jessekelly/projects/fp-ts-lib/tsconfig.json
+Info 10   [14:04:18.405] Finishing updateGraphWorker: Project: /Users/jessekelly/projects/fp-ts-lib/tsconfig.json Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 705.5610842704773ms
+Info 11   [14:04:18.405] Project '/Users/jessekelly/projects/fp-ts-lib/tsconfig.json' (Configured)
+Info 12   [14:04:18.405] 	Files (184)
+
+Info 13   [14:04:18.405] -----------------------------------------------
+Info 14   [14:04:18.409] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 15   [14:04:18.532] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 123.18679237365723ms
+Info 16   [14:04:18.532] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 17   [14:04:18.532] 	Files (120)
+
+Info 18   [14:04:18.532] -----------------------------------------------
+Info 19   [14:04:20.354] Starting updateGraphWorker: Project: /Users/jessekelly/projects/fp-ts-lib/tsconfig.json
+Info 20   [14:04:20.373] Finishing updateGraphWorker: Project: /Users/jessekelly/projects/fp-ts-lib/tsconfig.json Version: 2 structureChanged: false structureIsReused:: Completely Elapsed: 19.006083965301514ms
+Info 21   [14:04:20.373] Different program with same set of files
+Info 22   [14:04:21.058] Starting updateGraphWorker: Project: /Users/jessekelly/projects/fp-ts-lib/tsconfig.json
+Info 23   [14:04:21.070] Finishing updateGraphWorker: Project: /Users/jessekelly/projects/fp-ts-lib/tsconfig.json Version: 3 structureChanged: false structureIsReused:: Completely Elapsed: 12.191374778747559ms
+Info 24   [14:04:21.070] Different program with same set of files
+Info 25   [14:04:21.073] getCompletionData: Get current token: 0.06387472152709961
+Info 26   [14:04:21.073] getCompletionData: Is inside comment: 0.009124755859375
+Info 27   [14:04:21.074] getCompletionData: Get previous token: 0.3312077522277832
+Info 28   [14:04:21.075] getCompletionsAtPosition: isCompletionListBlocker: 0.38220787048339844
+Info 29   [14:04:21.081] getCompletionData: Semantic work: 6.606916427612305
+Info 30   [14:04:21.115] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 32.638290882110596
+Info 31   [14:04:21.430] Starting updateGraphWorker: Project: /Users/jessekelly/projects/fp-ts-lib/tsconfig.json
+Info 32   [14:04:21.442] Finishing updateGraphWorker: Project: /Users/jessekelly/projects/fp-ts-lib/tsconfig.json Version: 4 structureChanged: false structureIsReused:: Completely Elapsed: 12.025458335876465ms
+Info 33   [14:04:21.442] Different program with same set of files
+Info 34   [14:04:22.038] Starting updateGraphWorker: Project: /Users/jessekelly/projects/fp-ts-lib/tsconfig.json
+Info 35   [14:04:22.054] Finishing updateGraphWorker: Project: /Users/jessekelly/projects/fp-ts-lib/tsconfig.json Version: 5 structureChanged: false structureIsReused:: Completely Elapsed: 15.86437463760376ms
+Info 36   [14:04:22.054] Different program with same set of files
